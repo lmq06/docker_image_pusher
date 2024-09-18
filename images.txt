@@ -1,2 +1,3 @@
 superng6/qbittorrentee
 gotson/komga
+dreamacro/clash
