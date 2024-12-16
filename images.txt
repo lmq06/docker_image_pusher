@@ -1,4 +1,4 @@
 superng6/qbittorrentee
 gotson/komga
 dreamacro/clash
-eddelbuettel/r2u
+mtphotos/mt-photos
