@@ -1,4 +1,4 @@
 superng6/qbittorrentee
 gotson/komga
 dreamacro/clash
-mtphotos/mt-photos
+homeassistant/home-assistant
